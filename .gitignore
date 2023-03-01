@@ -1,0 +1,5 @@
+user.db
+*.py[cod]
+dist
+build
+*.class
